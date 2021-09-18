@@ -9,10 +9,8 @@ package testgit;
  *
  * @author ADMIN
  */
-public class Commit2 {
+public class Commit3 {
     public static void main(String[] args) {
-        System.out.println("commit 2");
-        //abcxyz
-        //cflic
+        System.out.println("commit3");
     }
 }
